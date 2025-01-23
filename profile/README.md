@@ -7,7 +7,6 @@ Welcome to the GitHub organization of **MRI Lab Graz**! Here, we provide open-so
 ## Key Projects
 
 ### 1. **DICOM to BIDS Conversion Pipeline**
-- **Tool**: [Nextflow-based pipeline](https://github.com/your-org/dicom-to-bids-pipeline)
 - **Description**: Automates the conversion of raw DICOM data to the BIDS format.
 - **Features**:
   - Handles multi-session and multi-subject datasets.
@@ -15,14 +14,12 @@ Welcome to the GitHub organization of **MRI Lab Graz**! Here, we provide open-so
   - Integrates quality control steps.
 
 ### 2. **LimeSurvey Templates for Participant Code Generation**
-- **Tool**: [Participant Code Generator](https://github.com/your-org/limesurvey-templates)
 - **Description**: Pre-built LimeSurvey templates for generating and managing participant codes automatically.
 - **Features**:
   - Consistent participant ID creation.
   - Ensures anonymity and integrity of participant data.
 
 ### 3. **BIDSPM Tools for Functional Data**
-- **Tool**: [BIDSPM Tools](https://github.com/your-org/bidspm-tools)
 - **Description**: Scripts and pipelines for preprocessing and statistical analysis of functional data in the BIDS format.
 - **Features**:
   - Automated model generation (`models.json`).
@@ -30,7 +27,6 @@ Welcome to the GitHub organization of **MRI Lab Graz**! Here, we provide open-so
   - User-friendly setup for students and researchers.
 
 ### 4. **Datalad Utilities**
-- **Tool**: [Datalad Tools](https://github.com/your-org/datalad-utilities)
 - **Description**: Utilities to work with datasets under version control using Datalad.
 - **Features**:
   - Automates dataset versioning and sharing.
@@ -51,7 +47,7 @@ We welcome contributions from the community! Whether it’s fixing a bug, improv
 ---
 
 ## Contact
-For questions, feedback, or collaboration inquiries, please reach out to us at **mri-lab-graz@example.com** or open an issue in this repository.
+For questions, feedback, or collaboration inquiries, please reach out to us at **karl.koschutnig@uni-graz.at** or open an issue in this repository.
 
 ---
 
