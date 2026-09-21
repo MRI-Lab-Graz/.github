@@ -12,15 +12,13 @@ Welcome to the GitHub organization of **MRI Lab Graz**. We build open-source too
 
 ## 🔄 BIDS Conversion & Data Management
 - **[bids-dataset-tools](https://github.com/MRI-Lab-Graz/bids-dataset-tools)** ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) — tools to modify an existing BIDS dataset.
-- **[datalad](https://github.com/MRI-Lab-Graz/datalad)** ![Shell](https://img.shields.io/badge/-Shell-89E051?logo=gnubash&logoColor=black) — DataLad implementation and HPC connection.
 - **[DataLad-desktop](https://github.com/MRI-Lab-Graz/DataLad-desktop)** ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) — stable, cross-platform DataLad version control, no GitHub Desktop dependency.
 
 ## ✅ BIDS App Runners & Quality Control
-- **[bids_apps_runner](https://github.com/MRI-Lab-Graz/bids_apps_runner)** ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) — run BIDS apps from a JSON definition file.
 - **[bidspm](https://github.com/MRI-Lab-Graz/bidspm)** ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) — use bidspm without MATLAB.
 - **[bids-cat12-wrapper](https://github.com/MRI-Lab-Graz/bids-cat12-wrapper)** ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) — standalone CAT12 wrapper for the terminal.
+- **[bids_apps_runner](https://github.com/MRI-Lab-Graz/bids_apps_runner)** ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) — run BIDS apps from a JSON definition file.
 - **[bids-fastsurfer](https://github.com/MRI-Lab-Graz/bids-fastsurfer)** ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) — scripts and notes from the FastSurfer workshop 2025 (Bonn).
-- **[QualityControl](https://github.com/MRI-Lab-Graz/QualityControl)** ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) — QA for DICOM, physio, and spectroscopy data.
 
 ## 🧠 Connectomics & Analysis
 - **[opticonn](https://github.com/MRI-Lab-Graz/opticonn)** ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) — extract connectomics with DSI Studio and run statistical analysis.
