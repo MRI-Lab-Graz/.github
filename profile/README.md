@@ -4,7 +4,7 @@ Welcome to the GitHub organization of **MRI Lab Graz**. We build open-source too
 
 ---
 
-## 🚀 Flagship: PRISM
+## <img src="prism_logo.png" height="28" valign="middle" alt=""> Flagship: PRISM
 
 **[prism-studio](https://github.com/MRI-Lab-Graz/prism-studio)** ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) — an independent, BIDS-compatible framework and toolkit for enriching standard BIDS datasets with psychological and physiological metadata. Our most actively developed project.
 
