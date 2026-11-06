@@ -12,7 +12,7 @@ Welcome to the GitHub organization of **MRI Lab Graz**. We build open-source too
 
 ## 🔄 BIDS Conversion & Data Management
 - **[bids-dataset-tools](https://github.com/MRI-Lab-Graz/bids-dataset-tools)** ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) — tools to modify an existing BIDS dataset.
-- **[Worldline-desktop]([https://github.com/MRI-Lab-Graz/Worldline-desktop](https://github.com/MRI-Lab-Graz/Worldline-desktop))** ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) — stable, cross-platform version control, no GitHub Desktop dependency.
+- **[Worldline-desktop](https://github.com/MRI-Lab-Graz/Worldline-desktop)** ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) — Simple, safe version control for research data. A desktop app for Windows, macOS and Linux, with no command line needed.
 
 ## ✅ BIDS App Runners & Quality Control
 - **[bidspm](https://github.com/MRI-Lab-Graz/bidspm)** ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) — use bidspm without MATLAB.
